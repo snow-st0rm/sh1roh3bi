@@ -8,21 +8,17 @@
 
 <div align="left">
 
-<img 
-    src="./img/readme/character.png" 
+<img src="./img/readme/character.png" 
     align="right" 
-    width="260px"
->
+    width="260px">
 
 <p>
 A personal portfolio and commission website focused on art,
 character work, and custom web design.
 </p>
 
-<a 
-    href="https://sh1rohebi.42web.io"
-    style="color:#ff4d6d;"
->
+<a href="https://sh1rohebi.42web.io"
+    style="color:#ff4d6d;">
 Visit Website
 </a>
 
