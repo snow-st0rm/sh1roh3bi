@@ -36,9 +36,7 @@ character work, and custom web design.
 <li>Open source structure for learning/customization</li>
 </ul>
 
-<br clear="right"/>
-
-</div>
+<br clear="right">
 
 <hr>
 
