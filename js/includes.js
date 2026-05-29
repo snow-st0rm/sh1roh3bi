@@ -163,18 +163,22 @@ if (socialsSection && window.matchMedia('(min-width: 769px)').matches) {
 // fadein
 const commSection = document.querySelector('.comm-visual');
 
-if (commSection && window.matchMedia('(min-width: 769px)').matches) {
-  const observer = new IntersectionObserver(
-    ([entry]) => {
-      if (entry.isIntersecting) {
-        commSection.classList.add('is-visible');
-        observer.disconnect();
-      }
-    },
-    { threshold: 0.2 }
-  );
-
-  observer.observe(commSection);
+if (commSection) {
+  if (window.matchMedia('(min-width: 769px)').matches) {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          commSection.classList.add('is-visible');
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.2 }
+    );
+    observer.observe(commSection);
+  } else {
+    // mobile
+    commSection.classList.add('is-visible');
+  }
 }
 
 window.addEventListener("load", () => {

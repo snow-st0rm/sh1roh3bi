@@ -3100,33 +3100,16 @@ html {
 @media (max-width: 768px) {
 
     /* prices */
-    .comm-visual {
-        min-height: 420px;
-    }
-
+    
     .comm-character {
         transition: opacity 0.25s ease;
         will-change: opacity;
-        width: 260px;
-        margin: 0 auto;
     }
 
     .comm-visual.panel-open .comm-character {
         opacity: 0.1;
     }
 
-    .line-head {
-        top: 28%;
-    }
-
-    .line-half {
-        top: 55%;
-    }
-
-    .line-full {
-        top: 85%;
-    }
-    
     /* gallery */
     .comm-examples {
         flex-direction: column;
