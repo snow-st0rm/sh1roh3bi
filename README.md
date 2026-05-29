@@ -4,11 +4,9 @@
 
 </div>
 
-<img 
-    src="./readme/character.png"
+<img src="./readme/character.png"
     align="right"
-    width="370px"
->
+    width="370px">
 
 <p>
 A personal portfolio and commission website focused on art,
@@ -16,9 +14,7 @@ character work, and custom web design.
 </p>
 
 <p>
-<a 
-    href="https://sh1rohebi.42web.io"
->
+<a href="https://sh1rohebi.42web.io">
 <img 
     src="https://img.shields.io/badge/VISIT%20WEBSITE-ff4d6d?style=for-the-badge"
 >
