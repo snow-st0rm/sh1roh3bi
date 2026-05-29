@@ -107,7 +107,7 @@ Artwork and original characters are not free to use unless explicitly stated oth
 <div align="center">
 
 <a href="https://sh1rohebi.42web.io">
-<img src="./readme/websitebutton.gif">
+<img src="./readme/websiteLINK.gif">
 </a>
 
 </div>
