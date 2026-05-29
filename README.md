@@ -23,7 +23,7 @@ character work, and custom web design.
 
 <br>
 
-<h2 style="border-bottom: none;">✦ Features ✦</h2>
+<h3>✦ Features ✦</h3>
 
 <ul>
 <li>Responsive design for desktop and mobile</li>
@@ -79,7 +79,7 @@ root/
 
 <hr>
 
-<h2>✦ Customization ✦</h2>
+<h3>✦ Customization ✦</h3>
 
 <p>You are free to:</p>
 
@@ -96,7 +96,7 @@ Please do not repost my artwork or impersonate me using this project.
 
 <hr>
 
-<h2>✦ License ✦</h2>
+<h3>✦ License ✦</h3>
 
 <p>
 This project is open source for educational and personal inspiration purposes.
