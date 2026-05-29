@@ -4,25 +4,28 @@
 
 </div>
 
-<hr>
-
-<div align="left">
-
-<img src="./readme/character.png"
+<img 
+    src="./readme/character.png"
     align="right"
-    width="320px">
+    width="370px"
+>
 
 <p>
 A personal portfolio and commission website focused on art,
 character work, and custom web design.
 </p>
 
-<a href="https://sh1rohebi.42web.io"
-    style="color:#ff4d6d;">
-Visit Website
+<p>
+<a 
+    href="https://sh1rohebi.42web.io"
+>
+<img 
+    src="https://img.shields.io/badge/VISIT%20WEBSITE-ff4d6d?style=for-the-badge"
+>
 </a>
+</p>
 
-<br><br>
+<br>
 
 <h2>✦ Features ✦</h2>
 
