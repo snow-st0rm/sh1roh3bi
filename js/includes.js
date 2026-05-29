@@ -19,8 +19,8 @@ document.addEventListener("click", (e) => {
   }
 });
 
-loadComponent("header", "./components/header.html");
-loadComponent("footer", "./components/footer.html");
+loadComponent("header", "./components/header.txt");
+loadComponent("footer", "./components/footer.txt");
 
 // to top btn
 const backToTopBtn = document.getElementById('back-to-top');
