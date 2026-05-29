@@ -8,7 +8,7 @@
 
 <div align="left">
 
-<img src="./img/readme/character.png" 
+<img src="./readme/character.png" 
     align="right" 
     width="260px">
 
