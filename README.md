@@ -23,9 +23,7 @@ character work, and custom web design.
 
 <br>
 
-<div style="padding-top: 80px;">
-
-<h2>✦ Features ✦</h2>
+<h2 style="border-bottom: none;">✦ Features ✦</h2>
 
 <ul>
 <li>Responsive design for desktop and mobile</li>
@@ -37,8 +35,6 @@ character work, and custom web design.
 <li>Cyber-inspired UI styling</li>
 <li>Open source structure for learning/customization</li>
 </ul>
-
-</div>
 
 <br clear="right">
 
