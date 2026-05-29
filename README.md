@@ -59,9 +59,12 @@ character work, and custom web design.
 root/
 │
 ├── index.html
-├── faq.html
+├── about.html
 ├── commissions.html
+├── faq.html
 ├── tos.html
+├── codeCurr.html
+├── unit03.html
 │
 ├── css/
 │   ├── mainstyle.css
