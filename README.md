@@ -79,7 +79,7 @@ root/
 
 <hr>
 
-<h3>✦ Customization ✦</h3>
+<h2>✦ Customization ✦</h2>
 
 <p>You are free to:</p>
 
@@ -96,7 +96,7 @@ Please do not repost my artwork or impersonate me using this project.
 
 <hr>
 
-<h3>✦ License ✦</h3>
+<h2>✦ License ✦</h2>
 
 <p>
 This project is open source for educational and personal inspiration purposes.
