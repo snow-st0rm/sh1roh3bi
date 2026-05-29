@@ -1,21 +1,34 @@
-<table>
-<tr>
-<td width="70%" valign="top">
+<div align="center">
 
-# Sh1rohebi Website
+# ✦ Sh1rohebi Website ✦
+
+</div>
+
+<hr>
+
+<div align="left">
+
+<img 
+    src="./img/readme/character.png" 
+    align="right" 
+    width="260px"
+>
 
 <p>
 A personal portfolio and commission website focused on art,
 character work, and custom web design.
 </p>
 
-<a href="https://sh1rohebi.42web.io">
+<a 
+    href="https://sh1rohebi.42web.io"
+    style="color:#ff4d6d;"
+>
 Visit Website
 </a>
 
----
+<br><br>
 
-## Features
+## ✦ Features ✦
 
 - Responsive design for desktop and mobile
 - Smooth scrolling navigation
@@ -26,9 +39,13 @@ Visit Website
 - Cyber-inspired UI styling
 - Open source structure for learning/customization
 
+</div>
+
+<br clear="right"/>
+
 ---
 
-## Built With
+## ✦ Built With ✦
 
 - HTML5
 - CSS3
@@ -39,7 +56,7 @@ Visit Website
 
 ---
 
-## Website Structure
+## ✦ Website Structure ✦
 
 ```text
 root/
@@ -65,42 +82,26 @@ root/
 
 ---
 
-## Customization
+## ✦ Customization ✦
 
-<p>You are free to:</p>
+You are free to:
 
 * Modify the styling
 * Reuse components
 * Learn from the code
 * Adapt the layout for your own website
 
-<p>
 Please do not repost my artwork or impersonate me using this project.
-</p>
 
 ---
 
-## License
+## ✦ License ✦
 
-<p>
 This project is open source for educational and personal inspiration purposes.
-</p>
 
-<p>Code may be reused with credit.</p>
+Code may be reused with credit.
 
-<p>
 Artwork and original characters are not free to use unless explicitly stated otherwise.
-</p>
-
-</td>
-
-<td width="30%" align="center" valign="top">
-
-<img src="./readme/character.png" width="100%">
-
-</td>
-</tr>
-</table>
 
 ---
 
